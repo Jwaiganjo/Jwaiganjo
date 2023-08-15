@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **3D Modeling,Cloud and IoT**
 
-- 👨‍💻 All of my projects are available at [https://geofreywaiganjo254.wixsite.com/my-site-1](https://geofreywaiganjo254.wixsite.com/waiganjo)
+- 👨‍💻 All of my projects are available at [https://geofreywaiganjo254.wixsite.com/waiganjo]
 
 - 💬 Ask me about **Embedded system**
 
